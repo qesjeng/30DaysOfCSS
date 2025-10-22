@@ -27,6 +27,7 @@ li {
   font-weight: bolder;
   letter-spacing: 10px;
   transition: 2s;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 ul:hover li {
